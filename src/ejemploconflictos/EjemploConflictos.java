@@ -15,6 +15,8 @@ public class EjemploConflictos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        double edad;
+        double nombre;
     }
     
 }
